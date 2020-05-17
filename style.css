@@ -66,8 +66,8 @@
 
 .container  img {
     border: 3px double rgb(53, 236, 77);
-    width: 35em;
-    height: 25em;
+    width: 30em;
+    height: 20em;
     margin: 20px;
     border-radius: 5px;
     transition: all 1s;
